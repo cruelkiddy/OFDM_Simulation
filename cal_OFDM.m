@@ -7,7 +7,7 @@ S_k = randi(2, N_s, 1)';
 % impulse response of the channel
 h_channel = [0.2, 0, 0, 0.7, 0, 0.1];
 H_k = fft(h_channel, N_s);
-L = 3;
+L = length(h_channel);
 
 % signal-to-noise ratio(dB)
 

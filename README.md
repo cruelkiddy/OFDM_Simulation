@@ -6,5 +6,5 @@
 
 
 
-***More details*** [here](./Report.md)(*IN CHINESE*)
+***More details*** [here](./Report.pdf)(*IN CHINESE*)
 
